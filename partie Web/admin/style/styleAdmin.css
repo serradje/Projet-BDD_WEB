@@ -1,0 +1,42 @@
+body{
+	color : #69644e;
+	background-color: #262016;
+	margin : 0 auto;
+	width :900px;
+}
+
+#container{
+background-color: #eae5ce;
+
+}
+
+
+h1{
+	font-size:2em;
+	text-align : center;
+	text-transform: uppercase;
+
+}
+
+
+form{
+	width :800px;
+	margin : 0 auto;
+	position:relative;
+}
+
+input[type="text"],select{
+	position :absolute;
+	left : 150px;
+}
+
+select{
+	width:100px;
+}
+
+
+h2{
+
+
+
+}
