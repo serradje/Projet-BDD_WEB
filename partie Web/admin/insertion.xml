@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Articles>
+  <article>
+    <designation>Convert number to string</designation>
+    <description>Examp1.EXE</description>
+    <categorie>Vetements</categorie>
+    <prix>15</prix>
+    <tva>12</tva>
+    <image><image>
+  </article>
+
+   <article>
+    <designation>Convert number to string 2</designation>
+    <description>Examp1.EXE</description>
+    <categorie>Accessoires</categorie>
+    <prix>56</prix>
+    <tva>10</tva>
+    <image><image>
+  </article>
+
+   <article>
+    <designation>Convert number to string 3</designation>
+    <description>Examp1.EXE</description>
+    <categorie>Posters</categorie>
+    <prix>78</prix>
+    <tva>20</tva>
+    <image><image>
+  </article>
+
+   <article>
+    <designation>Convert number to string 4</designation>
+    <description>Examp1.EXE</description>
+    <categorie>DVD</categorie>
+    <prix>12</prix>
+    <tva>5</tva>
+    <image><image>
+  </article>
+
+</Articles>
